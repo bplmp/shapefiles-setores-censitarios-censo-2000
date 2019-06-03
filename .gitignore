@@ -1,0 +1,6 @@
+geoftp.ibge.gov.br/
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
