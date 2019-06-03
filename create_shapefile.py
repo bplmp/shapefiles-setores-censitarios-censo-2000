@@ -61,4 +61,4 @@ country['CD_UF'] = country['CD_GEOCODI'].str[:2]
 country.head()
 
 # export shapefile
-country.to_file('br_set_cens_2000/br_set_cens_2000.shp')
+country.to_file('br_set_cens_2000/br_set_cens_2000_4326.shp')
